@@ -1,12 +1,12 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- **S. Xxx**, X. Xxx*, A. Xxx*, K. Xxx, Y. Xxx, C. Xxx, and Q.Xxx. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. *In Revision*. [[Code]](https://github.com/xxxx/LaNCor)  
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- X. Xxx, **S. Xxx**, A. Xxx*, C. Xxx*, Y. Xxx, X. Xxx, and Q. Xxx (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. *International Journal of Rock Mechanics and Mining Sciences*. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)  
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- **S. Xxx**, X. Xxx*, A. Xxx*, C. Xxx, Y. Xxx, Y. Xxx, and Q. Xxx (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. *IEEE Transactions on Geoscience and Remote Sensing*. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/xxxx/SeisT)  
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- A. Xxx, X. Xxx, C. Xxx*, **S. Xxx**, Y. Xxx, L. Xxx, and Q. Xxx (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. *Journal of China Coal Society*. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)  
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- A. Xxx, Y. Xxx, X. Xxx*, **S. Xxx**, C. Xxx, X. Xxx, and Y. Xxx (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. *Journal of China Coal Society*. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)  
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- X. Xxx, X. Xxx, C. Xxx, **S. Xxx**, and Q. Xxx (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. *IEEE Communications Letters*. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)  
 
